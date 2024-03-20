@@ -1,0 +1,26 @@
+[
+	{
+		"_id": 1,
+		"airdrop": "base",
+		"blockchain": "base",
+		"flow": "1"
+	},
+	{
+		"_id": 2,
+		"airdrop": "base",
+		"blockchain": "base",
+		"flow": "2"
+	},
+	{
+		"_id": 3,
+		"airdrop": "base",
+		"blockchain": "base",
+		"flow": "3"
+	},
+	{
+		"_id": 4,
+		"airdrop": "base",
+		"blockchain": "base",
+		"flow": "4"
+	}
+]

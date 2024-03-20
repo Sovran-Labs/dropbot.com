@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 1,
+        "airdrops": ["base", "zksync era"],
+        "blockchains": ["arbitrum", "ethereum", "polygon", "base", "zksync era"],
+        "flow": "1",
+        "trxs": ["trx 1", "trx 2", "trx 3"]
+    },
+    {
+        "_id": 2,
+        "airdrops": ["base", "zksync era"],
+        "blockchains": ["arbitrum", "ethereum", "polygon", "base", "zksync era"],
+        "flow": "2",
+        "trxs": ["trx 1", "trx 2", "trx 3"]
+    },
+    {
+        "_id": 3,
+        "airdrops": ["base", "zksync era"],
+        "blockchains": ["arbitrum", "ethereum", "polygon", "base", "zksync era"],
+        "flow": "3",
+        "trxs": ["trx 1", "trx 2", "trx 3"]
+    },
+    {
+        "_id": 4,
+        "airdrops": ["base", "zksync era"],
+        "blockchains": ["arbitrum", "ethereum", "polygon", "base", "zksync era"],
+        "flow": "4",
+        "trxs": ["trx 1", "trx 2", "trx 3"]
+    }
+]
